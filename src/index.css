@@ -1,0 +1,12 @@
+
+@import "tailwindcss";
+*{
+ 
+  font-family: gilroy;
+  
+}
+
+body{
+  background: #000;
+
+}
