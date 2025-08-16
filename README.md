@@ -39,10 +39,10 @@ src/
 ## 📸 Screenshots  
 
 ### Home Page  
-![Home Page](./screenshots/home.png)  
+![Home Page](./ScreenShots/home1.jpg)  
 
 ### Movie Detail Page  
-![Movie Detail Page](./screenshots/detail.png)  
+![Movie Detail Page](./ScreenShots/moviedetail.jpg)  
 
 ### Favourites Page  
-![Favourites Page](./screenshots/favourites.png)  
+![Favourites Page](./ScreenShots/Favourite.jpg)  
