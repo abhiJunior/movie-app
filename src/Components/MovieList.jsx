@@ -17,8 +17,8 @@ function MovieList() {
     const options = {
       method: 'GET',
       headers: {
-        'x-rapidapi-key': '5ffeb783e1mshfab84f8269795acp1190bajsn64c42d2ae78f',
-        'x-rapidapi-host': 'tvshow.p.rapidapi.com',
+        'x-rapidapi-key': import.meta.env.VITE_RAPIDAPI_MOVIELIST_KEY,
+        'x-rapidapi-host': import.meta.env.VITE_RAPIDAPI_HOST,
         Type: 'get-trending-movies',
       },
     };

@@ -12,8 +12,8 @@ function MovieDetail() {
     const options = {
       method: 'GET',
       headers: {
-        'x-rapidapi-key': '637e4e2171mshfc788e61106c12bp198fefjsn901d0316786e',
-        'x-rapidapi-host': 'tvshow.p.rapidapi.com'
+        'x-rapidapi-key': import.meta.env.VITE_RAPIDAPI_MOVIEDETAIL_KEY,
+        'x-rapidapi-host': import.meta.env.VITE_RAPIDAPI_HOST
       }
     };
 
